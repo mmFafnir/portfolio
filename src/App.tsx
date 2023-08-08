@@ -15,7 +15,6 @@ function App() {
   
   return (
     <HashRouter >
-
       <Routes>
         <Route path='/' element={<MainLayout />} >
             <Route path='/' element={<Main />} />

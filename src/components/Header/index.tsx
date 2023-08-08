@@ -13,7 +13,7 @@ const Header: FC = () => {
         <header className="header">
             <div className="header__content">
                 <div className="header__logo">
-                    <a href="index.html"><p>A.Даврон</p></a>
+                    <Link to="/"><p>A.Даврон</p></Link>
                 </div>
                 <nav className="header__nav">
                     <Link className={`header__link ${isActive('/')}`} to="/">Главная</Link>

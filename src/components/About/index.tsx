@@ -8,7 +8,7 @@ const About = () => {
             <div className="about-me__wrapper"  >
                 <div className="about-me__content" id="about" >
                     <div className="about-me__img">
-                        <img src="images/gde-i-kak-vyrashivat-talanty.png" alt="davron" />
+                        <img src="https://cdn-edge.kwork.ru/files/avatar/large/48/9782062-11.jpg" alt="davron" />
                     </div>
                     <div className="about-me__text">
                         <h2 className="anim-show delay_02s">Обо мне</h2>
