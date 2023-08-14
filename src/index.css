@@ -293,14 +293,14 @@ img {
   cursor: pointer;
   z-index: 1000;
   display: none;
-  -ms-flex-pack: center;
   justify-content: center;
   -ms-flex-align: center;
   width: 50px;
   height: 50px;
+  align-items: center;
   position: absolute;
   top: 13px;
-  right: 0px;
+  right: 20px;
 }
 
 .burger__icon span {
@@ -953,6 +953,13 @@ img {
 
 .my-mail a {
   color: #fff;
+}
+
+.burger .my-mail{
+  font-size: 25px;
+  color: aliceblue;
+  font-family: 'Playfair Display', serif;
+  letter-spacing: 5px;
 }
 
 .name {

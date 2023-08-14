@@ -40,14 +40,14 @@ const Portfolio:FC<IProps> = ({title, cards}) => {
     console.log(cards)
     return (
         <section className="portfolio">
-            <div  className="title title_main __anim-item">
+            <div  className={`title __anim-item ${location.pathname === '/' ? "title_main" : "title_pd "}`}>
                 {
                     location.pathname === '/' ? (
                         <div style={style} className="title__content">
                             <div className="title__img"> 
                             
                             </div>
-                            <div className="title__text">
+                               <div className="title__text">
                                 <h1 className="anim-show_right">Акрамов Даврон</h1>
                                 <p className="anim-show_right delay_04s">Front-end разработчик</p>
                             </div>
