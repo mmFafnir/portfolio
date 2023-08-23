@@ -17,8 +17,8 @@ const Main:FC = () => {
     const dispatch = useTypeDispatch();
 
     useEffect(() => {
-        dispatch(fetchWorks({id: '5'}))
-        
+        dispatch(fetchWorks({id: '6'}))
+            
         return () => {
             window.onscroll = null
         }
