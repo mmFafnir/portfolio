@@ -1,5 +1,3 @@
-import React from "react";
-
 import instruments from "../../json/instrument.json";
 
 const InstrumentsModal = () => {

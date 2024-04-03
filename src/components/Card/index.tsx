@@ -2,7 +2,6 @@ import { FC } from "react";
 import { useLocation } from "react-router";
 import { Link } from "react-router-dom";
 import { TWork } from "../../types/work";
-import { url } from "inspector";
 
 interface IProps {
   card: TWork;
