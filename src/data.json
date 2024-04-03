@@ -1,0 +1,438 @@
+[
+  {
+    "title": "Funiro",
+    "img": "/static/img/work/funiro.png",
+    "description": "Небольшой интернет магазин с возможностью добавления товаров в корзину и подгрузки товаров из json файла.\n\nИнструменты используемые при работе:",
+    "url": "https://mmfafnir.github.io/Funiro/",
+    "urlGit": "https://github.com/mmFafnir/Funiro",
+    "type": "HTML/CSS/JS",
+    "list": [
+      {
+        "id": "5Gulp3",
+        "value": "Gulp"
+      },
+      {
+        "id": "4Бэм методология44",
+        "value": "Бэм методология"
+      },
+      {
+        "id": "3Препроцессор Sass в синтаксисе Scss45",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "2JavaScript44",
+        "value": "JavaScript"
+      },
+      {
+        "id": "1FlexBox65",
+        "value": "FlexBox"
+      },
+      {
+        "id": "0GridLayout77",
+        "value": "GridLayout"
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "title": "React Sneakers",
+    "img": "/static/img/work/sneakers.png",
+    "description": "Небольшой интернет магазин кроссовок\n\nЛогика написана при помощи redux/redux-saga",
+    "url": "https://mmfafnir.github.io/react-sneakers/",
+    "urlGit": "https://github.com/mmFafnir/react-sneakers",
+    "type": "React App",
+    "list": [
+      {
+        "id": "5React Router6",
+        "value": "React Router"
+      },
+      {
+        "id": "4Redux/Redux-Saga48",
+        "value": "Redux/Redux-Saga"
+      },
+      {
+        "id": "3React JS96",
+        "value": "React JS"
+      },
+      {
+        "id": "2Препроцессор Sass в синтаксисе Scs18",
+        "value": "Препроцессор Sass в синтаксисе Scs"
+      },
+      {
+        "id": "1Бэм методология56",
+        "value": "Бэм методология"
+      },
+      {
+        "id": "0Grid Layout98",
+        "value": "Grid Layout"
+      }
+    ],
+    "id": "3"
+  },
+  {
+    "title": "React-ToDo",
+    "img": "/static/img/work/todo.png",
+    "description": "Приложение для создание списка задач",
+    "url": "https://mmfafnir.github.io/react-todo/",
+    "urlGit": "https://github.com/mmFafnir/react-todo",
+    "type": "React App",
+    "list": [
+      {
+        "id": "3React.js(UseState, UseEffect, useRef)60",
+        "value": "React.js(UseState, UseEffect, useRef)"
+      },
+      {
+        "id": "2Препроцессор Sass в синтаксисе Scss38",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "1Бэм методология69",
+        "value": "Бэм методология"
+      },
+      {
+        "id": "0FlexBox10",
+        "value": "FlexBox"
+      }
+    ],
+    "id": "4"
+  },
+
+  {
+    "title": "Agata Bielen",
+    "img": "/static/img/work/agata.png",
+    "description": "Одностраничный сайт с полноэкранным скролом. Верстка адаптивная и кроссбраузерная",
+    "url": "https://mmfafnir.github.io/agata-bielen/",
+    "urlGit": "https://github.com/mmFafnir/agata-bielen",
+    "type": "Full Page Scroll",
+    "list": [
+      {
+        "id": "4JavaScript38",
+        "value": "JavaScript"
+      },
+      {
+        "id": "3Gulp16",
+        "value": "Gulp"
+      },
+      {
+        "id": "2 Бэм методология96",
+        "value": " Бэм методология"
+      },
+      {
+        "id": "1Препроцессор Sass в синтаксисе Scss9",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "0FlexBox90",
+        "value": "FlexBox"
+      }
+    ],
+    "id": "6"
+  },
+  {
+    "title": "React StarWars",
+    "img": "/static/img/work/star-wars.png",
+    "description": "Приложение для поиска персонажа из вселенной Star Wars\n\nПри написании логики использовалось хранилище состояния redux совместно с redux-saga\n\nВся информация подгружается из открытого Api - SWAPI",
+    "url": "https://mmfafnir.github.io/react_starWars/",
+    "urlGit": "https://github.com/mmFafnir/react_starWars",
+    "type": "React App",
+    "list": [
+      {
+        "id": "5React Router35",
+        "value": "React Router"
+      },
+      {
+        "id": "5Redux/Redux-Saga56",
+        "value": "Redux/Redux-Saga"
+      },
+      {
+        "id": "3React.js81",
+        "value": "React.js"
+      },
+      {
+        "id": "2Препроцессор Sass в синтаксисе Scss90",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "1Бэм методология37",
+        "value": "Бэм методология"
+      },
+      {
+        "id": "0FlexBox46",
+        "value": "FlexBox"
+      }
+    ],
+    "id": "7"
+  },
+  {
+    "title": "Bouncy",
+    "img": "/static/img/work/bouncy.png",
+    "description": "Простой, адаптивный одностраничный сайт, весь функционал которого написан на чистом JavaScript.",
+    "url": "https://mmfafnir.github.io/bouncy_team-site/",
+    "urlGit": "https://github.com/mmFafnir/bouncy_team-site",
+    "type": "Landing Page",
+    "list": [
+      {
+        "id": "4Gulp60",
+        "value": "Gulp"
+      },
+      {
+        "id": "3JavaScript40",
+        "value": "JavaScript"
+      },
+      {
+        "id": "2Препроцессор Sass в синтаксисе Scss11",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "1Бэм методология55",
+        "value": "Бэм методология"
+      },
+      {
+        "id": "0FlexBox0",
+        "value": "FlexBox"
+      }
+    ],
+    "id": "8"
+  },
+  {
+    "title": "Falmec",
+    "img": "/static/img/work/falmec.png",
+    "description": "Многостраничный сайт. В данной работе я проводил ре-дизайн сайта.",
+    "url": "https://falmec-store.ru/",
+    "urlGit": "",
+    "type": "Redesign",
+    "list": [
+      {
+        "id": "2JavaScript58",
+        "value": "JavaScript"
+      },
+      {
+        "id": "1CSS99",
+        "value": "CSS"
+      },
+      {
+        "id": "0HTML71",
+        "value": "HTML"
+      }
+    ],
+    "id": "13"
+  },
+  {
+    "title": "React Pizza",
+    "img": "/static/img/work/pizza2.png",
+    "description": "Новая версия приложения React Pizza. \nБыли добавлены новые страницы: Отдельная страница пиццы, страница админки, где можно добавлять, удалять и изменять пиццы(Логин: admin, Пароль: admin123). Также был внедрен TypeScript и Redux/Redux-toolkit ",
+    "url": "https://mmfafnir.github.io/react-pizza_v2/",
+    "urlGit": "https://github.com/mmFafnir/react-pizza_v2",
+    "type": "ReactTS App",
+    "list": [
+      {
+        "id": "5React Router11",
+        "value": "React Router"
+      },
+      {
+        "id": "4TypeScript 23",
+        "value": "TypeScript "
+      },
+      {
+        "id": "3Redux/Redux-toolkit38",
+        "value": "Redux/Redux-toolkit"
+      },
+      {
+        "id": "2ReactJS68",
+        "value": "ReactJS"
+      },
+      {
+        "id": "1Препроцессор Sass в синтаксисе Scss22",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "0Бэм методология17",
+        "value": "Бэм методология"
+      }
+    ],
+    "id": "10"
+  },
+  {
+    "title": "Formula Coda",
+    "img": "/static/img/work/coda.png",
+    "description": "Многостраничный сайт Web-студии",
+    "url": "https://formulacoda.ru/",
+    "urlGit": "",
+    "type": "Web-Cтудия",
+    "list": [
+      {
+        "id": "4Canvas14",
+        "value": "Canvas"
+      },
+      {
+        "id": "3JavaScript46",
+        "value": "JavaScript"
+      },
+      {
+        "id": "2Gulp 77",
+        "value": "Gulp "
+      },
+      {
+        "id": "1Препроцессор Sass в синтаксисе Scss22",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "0Бэм методология17",
+        "value": "Бэм методология"
+      }
+    ],
+    "id": "11"
+  },
+  {
+    "title": "Альманах Смыслов",
+    "img": "/static/img/work/almanah.png",
+    "description": "Многостраничный сайт с плавной анимацией при скролле и с функционал чтение книги ",
+    "url": "https://almanah.ndialektika.ru/",
+    "urlGit": "",
+    "type": "Портал",
+    "list": [
+      {
+        "id": "4Canvas14",
+        "value": "Canvas"
+      },
+      {
+        "id": "3JavaScript46",
+        "value": "JavaScript"
+      },
+      {
+        "id": "2Gulp 77",
+        "value": "Gulp "
+      },
+      {
+        "id": "1Препроцессор Sass в синтаксисе Scss22",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "0Бэм методология17",
+        "value": "Бэм методология"
+      }
+    ],
+    "id": "12"
+  },
+  {
+    "title": "RNotes",
+    "img": "/static/img/work/rnotes.png",
+    "description": "Приложение для создание заметок",
+    "url": "https://mmfafnir.github.io/react-ts-notes/",
+    "urlGit": "https://github.com/mmFafnir/react-ts-notes",
+    "type": "ReactTS App",
+    "list": [
+      {
+        "id": "6Canvas72",
+        "value": "Canvas"
+      },
+      {
+        "id": "5TypeScript80",
+        "value": "TypeScript"
+      },
+      {
+        "id": "4React Router74",
+        "value": "React Router"
+      },
+      {
+        "id": "3Redux/Redux-Thunk33",
+        "value": "Redux/Redux-Thunk"
+      },
+      {
+        "id": "2React.js(Хуки: UseState, UseEffect, UseMemo)78",
+        "value": "React.js(Хуки: UseState, UseEffect, UseMemo)"
+      },
+      {
+        "id": "1Препроцессор Sass в синтаксисе Scss84",
+        "value": "Препроцессор Sass в синтаксисе Scss"
+      },
+      {
+        "id": "0Бэм методология81",
+        "value": "Бэм методология"
+      }
+    ],
+    "id": "9"
+  },
+  {
+    "title": "React Blog",
+    "img": "/static/img/work/react-blog.png",
+    "description": "FullStack блог, с возможностью регистрации, написании постов, добавлением комментариев.\nСерверная часть написана на Node.js/express. Для защиты данных при регистрации используется токен JWT. \nДля хранения данных используется база данных  MongoDB",
+    "url": "https://react-blog-frontend-ivory.vercel.app/",
+    "urlGit": "https://github.com/mmFafnir/react-blog-frontend",
+    "type": "Mern",
+    "list": [
+      {
+        "id": "6MongoDB29",
+        "value": "MongoDB"
+      },
+      {
+        "id": "5JWT17",
+        "value": "JWT"
+      },
+      {
+        "id": "4Node.JS/Express0",
+        "value": "Node.JS/Express"
+      },
+      {
+        "id": "3React-router 13",
+        "value": "React-router "
+      },
+      {
+        "id": "2Redux/Redux-toolkit38",
+        "value": "Redux/Redux-toolkit"
+      },
+      {
+        "id": "1TypeScript15",
+        "value": "TypeScript"
+      },
+      {
+        "id": "0React JS92",
+        "value": "React JS"
+      }
+    ],
+    "id": "10"
+  },
+  {
+    "title": "AibetGuru",
+    "img": "/static/img/work/aibetguru.png",
+    "description": "Многостраничный сайт со статистикой футбольных матчей.",
+    "url": "https://aibetguru.com/",
+    "urlGit": "",
+    "type": "NextJs",
+    "list": [
+      {
+        "id": "7dayjs38",
+        "value": "dayjs"
+      },
+      {
+        "id": "6Scss6",
+        "value": "Scss"
+      },
+      {
+        "id": "5TypeScript93",
+        "value": "TypeScript"
+      },
+      {
+        "id": "4PusherJs11",
+        "value": "PusherJs"
+      },
+      {
+        "id": "3axios48",
+        "value": "axios"
+      },
+      {
+        "id": "2NextAuth33",
+        "value": "NextAuth"
+      },
+      {
+        "id": "1Redux/Redux-thunk11",
+        "value": "Redux/Redux-thunk"
+      },
+      {
+        "id": "0Next js 146",
+        "value": "Next js 14"
+      }
+    ],
+    "id": "11"
+  }
+]
