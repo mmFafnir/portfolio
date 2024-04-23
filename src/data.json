@@ -395,7 +395,7 @@
   {
     "title": "AibetGuru",
     "img": "/static/img/work/aibetguru.png",
-    "description": "Многостраничный сайт со статистикой футбольных матчей. ",
+    "description": "Многостраничный сайт со статистикой футбольных матчей.",
     "url": "https://aibetguru.com/",
     "urlGit": "",
     "type": "NextJs",
