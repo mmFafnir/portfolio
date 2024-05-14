@@ -23,7 +23,7 @@ export const useAnimate = (config: UseAnimateProps) => {
         transition: `all ${unMount.delay / 1000}s`,
       });
 
-      let timer = setTimeout(() => handleClick(), unMount.delay);
+      const timer = setTimeout(() => handleClick(), unMount.delay);
       return () => clearTimeout(timer);
     },
     [unMount]
@@ -31,7 +31,7 @@ export const useAnimate = (config: UseAnimateProps) => {
 
   /** mount */
   useEffect(() => {
-    let timer = setTimeout(
+    const timer = setTimeout(
       () =>
         setStyle({ ...mount.style, transition: `all ${mount.delay / 1000}s` }),
       mount.delay
